@@ -180,7 +180,7 @@ const b = a;
 b.num = 90;
 
 console.log(a);
-```
+
 
 <br>
 
