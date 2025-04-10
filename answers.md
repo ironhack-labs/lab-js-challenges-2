@@ -1,21 +1,21 @@
 1. Challenge 1:
   - Answer: b
-  - Explanation: console.log inside the function checks foo inside the function after it's been reasssigned. The console.log after bar() checks the  variable foo after it passed the function bar() which means now the value is xyz and not abc like it was before invoking the function.
+  - Explanation: console.log inside the function logs foo inside the function after it's been reasssigned. The console.log after bar() logs  the  variable foo after it passed through the function bar() which means now the value is xyz and not abc like it was before invoking the function.
 
 
 2. Challenge 2:
   - Answer: c
-  - Explanation: example(a) checks "a" in the function and not a in the global scope (global scope is let a =1)
+  - Explanation: example(a) checks "a" in the function and not a in the global scope (global scope is let a =1). "a" inside the function is only a local variable, it has nothing to do with global a.
 
 
 3. Challenge 3:
   - Answer: c
-  - Explanation: because of hoisting. 
+  - Explanation: because of hoisting. Hoisting allows it to be called before declaring it.
 
 
 4. Challenge 4:
   - Answer: c
-  - Explanation: a and b point to the same object. They are stored with the same reference
+  - Explanation: a and b point to the same object. They are stored with the same reference which allows b to modify a.
 
 
 5. Bonus - Challenge 5:
