@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer:b
+  - Explanation: global variable foo,no. new scope
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation: only value not reference 
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer:c
+  - Explanation: a normal function declaration
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: num changes to 90 
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer: a
   - Explanation:
