@@ -1,23 +1,23 @@
 1. Challenge 1:
-  - Answer: 
-  - Explanation: 
+  - Answer: b
+  - Explanation: global scope variable, gets updated during function.
 
 
 2. Challenge 2:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: example(a) --> a as argument gets changed during the function
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: functions are hoisted on js
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer: c
+  - Explanation: b = a, of an object, so he gets the pointer
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer: c
   - Explanation:
