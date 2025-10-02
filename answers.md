@@ -1,23 +1,24 @@
-1. Challenge 1:
-  - Answer: 
+1. Challenge 1:// Challenge 1
+  - Answer: B 
   - Explanation: 
+  
 
 
 2. Challenge 2:
-  - Answer:
+  - Answer:С
   - Explanation:
 
 
 3. Challenge 3:
-  - Answer:
+  - Answer:С
   - Explanation:
 
 
 4. Challenge 4:
-  - Answer:
+  - Answer:C
   - Explanation:
 
 
 5. Bonus - Challenge 5:
-  - Answer:
+  - Answer:C
   - Explanation:
