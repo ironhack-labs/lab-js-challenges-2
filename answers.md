@@ -1,6 +1,6 @@
 1. Challenge 1:
   - Answer: B
-  - Explanation: The variable is declared with `let` and initialised in the "global scope", whereas in the function, the variable is reasigned to a new value ("foo" points to another place in the memory).
+  - Explanation: The variable is declared with `let` and initialised in the "global scope", whereas in the function, the variable is reassigned to a new value ("foo" points to another place in the memory).
 
 
 2. Challenge 2:
@@ -19,5 +19,5 @@
 
 
 5. Bonus - Challenge 5:
-  - Answer:
-  - Explanation:
+  - Answer: A
+  - Explanation: Inside the function, the obj parameter is reassigned to a newly created object. That's the reason why rabbit1 and rabbit2 point to two different places in the memory.
