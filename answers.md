@@ -14,8 +14,8 @@
 
 
 4. Challenge 4:
-  - Answer:
-  - Explanation:
+  - Answer: C
+  - Explanation: "b" copies the reference (pointer) of the constant "a". So, when a/b is modified, a/b is also modified at the same time.
 
 
 5. Bonus - Challenge 5:
