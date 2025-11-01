@@ -9,8 +9,8 @@
 
 
 3. Challenge 3:
-  - Answer:
-  - Explanation:
+  - Answer: C
+  - Explanation: This is a clear case of hoisting, where functions, constants and variables are "pushed" to the beginning of the script, so they can be called after.
 
 
 4. Challenge 4:
