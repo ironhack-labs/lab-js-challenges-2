@@ -20,5 +20,5 @@
 
 5. Bonus - Challenge 5:
 
-- Answer: d
+- Answer: c
 - Explanation: objects copies values by referencing. So, when obj.age is assigned 10, it also change rabbit1's value as it was passed as an argument which was then assigned to obj. when obj = { name: "Ada", age: 20 }; is done, completely different object is assigned to obj and now reference that object. Finally obj is assigned to rabbit2.
